@@ -1,6 +1,10 @@
 # mernis
 Mernis Veritabanı İstatistikleri
 
+En çok kullanılan isimlerin detaylı listesi csv dosyalarında.
+
+İstatistikler wikileakte paylaşılan veritabanından toplanmıştır.
+
 # En çok kullanılan 100 isim
 İsim|Toplam Sayı|Ortalama Doğum Tarihi|Erkek Sayısı|Kadın Sayısı
 |------------------|----------|---------------|-----------|-----------|
